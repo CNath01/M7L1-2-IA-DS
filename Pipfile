@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pillow = "==9.1.0"
+tensorflow = "==2.8.0"
+"discord.py" = "*"
+numpy = "==1.21.6"
+keras = "*"
+requests = "*"
+protobuf = "==3.20.3"
+tensorflow-cpu = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
+python_full_version = "3.10.0"
