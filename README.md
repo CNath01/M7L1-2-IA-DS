@@ -152,6 +152,6 @@ python main.py
 
 - Cada miembro del equipo debe usar su propio modelo exportado desde Teachable Machine.
 - Asegúrate de modificar `TU_TOKEN_DISCORD` con tu token de bot de Discord.
-- Puedes subir imágenes de ejemplo a Discord para probar el modelo.
+
 
 ---
