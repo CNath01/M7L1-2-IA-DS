@@ -32,7 +32,7 @@ En Visual Studio Code, ejecuta los siguientes comandos:
 
 ```bash
 pip install pipenv
-pipenv --python "C:\Users\<tu_usuario>\AppData\Local\Programs\Python\Python310.exe"
+pipenv --python "C:\Users\<tu_usuario>\AppData\Local\Programs\Python\Python310\python.exe"
 ```
 
 > **Nota**: Puedes encontrar la ruta de Python buscando en tu sistema archivos o usando `py -0p`.
